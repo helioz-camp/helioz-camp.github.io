@@ -9,3 +9,9 @@ defaults:
 exclude:
   - "Gemfile"
   - "Gemfile.lock"
+
+gems:
+  - "jekyll-coffeescript"
+
+sass:
+  sass_dir: "assets/stylesheets"
